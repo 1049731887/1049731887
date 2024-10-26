@@ -1,4 +1,4 @@
-- 📫 邮箱1049731887@qq.com
+- open an issue to contact me
 
 <!---
 1049731887/1049731887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
